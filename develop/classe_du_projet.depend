@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\elève\documents\apprendre-c++\projetlaser\develop\classe_du_projet\main.cpp
+	<iostream>
+
+1639915898 source:c:\users\elève\documents\apprendre-c++\projetlaser\develop\classe_du_projet\miroir.cpp
+
+1639915840 source:c:\users\elève\documents\apprendre-c++\projetlaser\develop\classe_du_projet\murr.cpp
+
+1639915507 source:c:\users\elève\documents\apprendre-c++\projetlaser\develop\classe_du_projet\position.cpp
+
+1639916161 source:c:\users\elève\documents\apprendre-c++\projetlaser\develop\classe_du_projet\rectangle.cpp
+
+1639913265 source:c:\users\elève\documents\apprendre-c++\projetlaser\develop\classe_du_projet\taille.cpp
+
+1639915921 source:c:\users\elève\documents\apprendre-c++\projetlaser\develop\classe_du_projet\terrain.cpp
+
